@@ -24,10 +24,33 @@ The installation requirements for this code are as follows:
 
 ## USAGE
 
-For the functionality of joint_savings.sol code, the following compiler and environment, respectively, must be active:
+For the functionality of the joint_savings.sol code, the following compiler and environment, respectively, must be active:
 
 ```solidity
 pragma solidity ^0.5.0;
 Remix VM (London)
 ```
+
+For the functionality of the deployment of the joint_savings colde, credentials must be input in the following features:
+
+```solidity
+ACCOUNT
+DEPOSIT
+setAccounts
+Withdraw
+DEPLOY
+```
+
+
+
+
+## CONTRIBUTORS
+
+*Marcus LeGare (Author, Developer)*
+
+### LICENSE
+
+**COLUMBIA UNIVERISTY FINTECH BOOTCAMP**
+
+
 
