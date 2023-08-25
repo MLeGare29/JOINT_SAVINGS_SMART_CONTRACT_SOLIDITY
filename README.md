@@ -43,7 +43,7 @@ DEPLOY
 
 ## GALLERY
 
-![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/7bd4cdc9-727c-41a9-9784-1c4e3ff53e76)
+![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/72198aa8-f1ac-41b0-88cf-c462c6f436a3)
 
 ![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/228ea14a-0bcf-4d10-abda-b41ee9f97ee0)
 
