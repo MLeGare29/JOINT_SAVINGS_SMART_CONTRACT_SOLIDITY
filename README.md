@@ -41,6 +41,17 @@ Withdraw
 DEPLOY
 ```
 
+## GALLERY
+
+![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/7bd4cdc9-727c-41a9-9784-1c4e3ff53e76)
+
+![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/228ea14a-0bcf-4d10-abda-b41ee9f97ee0)
+
+![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/2746ed91-40e1-41e1-8828-8cfd1e2ca1a8)
+
+![image](https://github.com/MLeGare29/M20_CHALLENGE/assets/127421460/653c6e9c-208d-4c07-9ebe-1d820f6f9d1d)
+
+
 
 
 
